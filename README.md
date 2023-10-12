@@ -12,6 +12,12 @@ GIT	    https://git.kernel.org/
 RSYNC	rsync://rsync.kernel.org/pub/
 ```
 
+内核下载:
+https://mirrors.edge.kernel.org/pub/linux/kernel/
+
+中科大内核镜像下载:
+https://mirrors.ustc.edu.cn/kernel.org/linux/kernel/
+
 ## github
 
 > https://github.com/torvalds/linux
